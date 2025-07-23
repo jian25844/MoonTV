@@ -84,6 +84,22 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "sdid": {
+      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "name": "卧龙资源"
+    },
+    "sites": {
+      "api": "https://91md.me/api.php/provide/vod/",
+      "name": "AV-91麻豆"
+    },
+    "type": {
+     "api": "https://www.jingpinx.com/api.php/provide/vod/",
+     "name": "AV-精品资源"
+      
+      
+      
+      
     }
   }
 }
